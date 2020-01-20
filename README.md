@@ -1,2 +1,7 @@
-# My-Coding-Collection
-This repository host all my projects and coding idea's over the years.
+# CS3060 lab 10 #
+
+## Pair 9 ##
+
+Noah Bowe - nbowe  
+Davis McCue - dmccue
+
