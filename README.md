@@ -1,7 +1,6 @@
-# CS3060 lab 10 #
+# 3060 Lab 11 #
 
-## Pair 9 ##
+Noah Bowe - nbowe
+Davis McCue - ddmcue
 
-Noah Bowe - nbowe  
-Davis McCue - dmccue
-
+Sequential.scala
